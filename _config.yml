@@ -15,6 +15,8 @@ author:
   email:             hi@chapay.com
 
 repository:          https://github.com/chapay/chapay.github.io
-github:              https://github.com/chapay
-twitter:             https://twitter.com/chapovod
-linkedin:            https://linkedin.com/in/chapay
+
+social:
+  github:              https://github.com/chapay
+  twitter:             https://twitter.com/chapovod
+  linkedin:            https://linkedin.com/in/chapay
