@@ -17,6 +17,7 @@ author:
 repository:          https://github.com/chapay/chapay.github.io
 
 social:
+  rss:                 https://feeds.feedburner.com/chapay
   github:              https://github.com/chapay
   stackoverflow:       https://stackoverflow.com/users/4399592/chapay
   twitter:             https://twitter.com/chapovod
