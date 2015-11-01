@@ -6,7 +6,7 @@ title:               chapay's blog
 tagline:             'Blog about me, tech and web'
 description:         Hi everyone! <br/> <br/> This is Andrey Sobkanyuk's personal page.
 url:                 http://chapay.com
-baseurl:             'http://chapay.com'
+baseurl:             ''
 paginate:            5
 
 author:
