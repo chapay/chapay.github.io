@@ -16,7 +16,7 @@ There are several reasons for starting it:
 Now don't know actually what I will write about, but I think it will be about web development, technologies, useful tools
  and of course about my trips and hobbies.
 
-This blog is rendered by [Jekyll](https://jekyllrb.com/), use [Lanyon](http://lanyon.getpoole.com/) theme and hosted by Github Pages.
+This blog is rendered by [Jekyll](https://jekyllrb.com/), based on [Lanyon](http://lanyon.getpoole.com/) theme and hosted by Github Pages.
 Sources live on this [repository]({{ site.repository }}), so if you find any typo you can easily fork this repository and edit.
 
 Highly inspired by [William Durand's blog](http://williamdurand.fr/).
