@@ -4,15 +4,9 @@ title: Bookshelf
 ---
 
 <ul>
-{% for data in site.data.books %}
-    <h2>{{ data.year }}</h2>
-
-    <ul>
-    {% for book in data.books %}
+    {% for book in data %}
         <li>
-            "{{ book.title }}" ({{ book.year }}) - <em>{{ book.authors }}</em>
+            <a href="{{ book.url }}">{{ book.title }}</a> - <em>{{ book.authors }}</em>
         </li>
     {% endfor %}
-    </ul>
-{% endfor %}
 </ul>
